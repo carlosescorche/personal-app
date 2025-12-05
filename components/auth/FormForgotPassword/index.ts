@@ -1,0 +1,2 @@
+export { FormForgotPassword } from './FormForgotPassword';
+

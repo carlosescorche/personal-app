@@ -1,0 +1,93 @@
+[
+  {
+    "id": "cat-1",
+    "name": "Inteligencia Artificial",
+    "slug": "inteligencia-artificial",
+    "description": "Artículos sobre IA, machine learning y automatización",
+    "parent": "",
+    "color": "primary",
+    "created_at": "2024-01-15T10:00:00Z",
+    "updated_at": "2024-01-15T10:00:00Z"
+  },
+  {
+    "id": "cat-2",
+    "name": "Desarrollo Web",
+    "slug": "desarrollo-web",
+    "description": "Tutoriales y guías sobre desarrollo frontend y backend",
+    "parent": "",
+    "color": "accent",
+    "created_at": "2024-01-16T10:00:00Z",
+    "updated_at": "2024-01-16T10:00:00Z"
+  },
+  {
+    "id": "cat-3",
+    "name": "Productividad",
+    "slug": "productividad",
+    "description": "Herramientas y técnicas para mejorar la productividad",
+    "parent": "",
+    "color": "secondary",
+    "created_at": "2024-01-17T10:00:00Z",
+    "updated_at": "2024-01-17T10:00:00Z"
+  },
+  {
+    "id": "cat-4",
+    "name": "Tecnología",
+    "slug": "tecnologia",
+    "description": "Noticias y tendencias sobre tecnología",
+    "parent": "",
+    "color": "accent",
+    "created_at": "2024-01-18T10:00:00Z",
+    "updated_at": "2024-01-18T10:00:00Z"
+  },
+  {
+    "id": "cat-5",
+    "name": "Automatización",
+    "slug": "automatizacion",
+    "description": "Guías sobre automatización de procesos y tareas",
+    "parent": "cat-1",
+    "color": "primary",
+    "created_at": "2024-01-19T10:00:00Z",
+    "updated_at": "2024-01-19T10:00:00Z"
+  },
+  {
+    "id": "cat-6",
+    "name": "Machine Learning",
+    "slug": "machine-learning",
+    "description": "Conceptos y aplicaciones de machine learning",
+    "parent": "cat-1",
+    "color": "primary",
+    "created_at": "2024-01-20T10:00:00Z",
+    "updated_at": "2024-01-20T10:00:00Z"
+  },
+  {
+    "id": "cat-7",
+    "name": "React",
+    "slug": "react",
+    "description": "Tutoriales y mejores prácticas de React",
+    "parent": "cat-2",
+    "color": "accent",
+    "created_at": "2024-01-21T10:00:00Z",
+    "updated_at": "2024-01-21T10:00:00Z"
+  },
+  {
+    "id": "cat-8",
+    "name": "Next.js",
+    "slug": "nextjs",
+    "description": "Guías sobre Next.js y desarrollo full-stack",
+    "parent": "cat-2",
+    "color": "accent",
+    "created_at": "2024-01-22T10:00:00Z",
+    "updated_at": "2024-01-22T10:00:00Z"
+  },
+  {
+    "id": "cat-9",
+    "name": "Herramientas",
+    "slug": "herramientas",
+    "description": "Revisión de herramientas útiles para desarrolladores",
+    "parent": "cat-3",
+    "color": "secondary",
+    "created_at": "2024-01-23T10:00:00Z",
+    "updated_at": "2024-01-23T10:00:00Z"
+  }
+]
+

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "post-1",
+    "title": "Introducción a la Inteligencia Artificial para Desarrolladores",
+    "categories": ["cat-1"],
+    "type": "post",
+    "slug": "introduccion-ia-desarrolladores",
+    "json": "{}",
+    "html": "<h2>¿Qué es la Inteligencia Artificial?</h2><p>La inteligencia artificial (IA) está transformando la forma en que desarrollamos software. En este artículo exploraremos los conceptos fundamentales y cómo aplicarlos en proyectos reales.</p><h3>Conceptos Clave</h3><p>La IA no es solo ciencia ficción, es una herramienta práctica que podemos usar hoy mismo para mejorar nuestros productos y procesos.</p>",
+    "description": "Una guía completa para desarrolladores que quieren empezar con IA. Aprende los conceptos fundamentales y cómo aplicarlos en tus proyectos.",
+    "order": 1,
+    "published_at": "2024-01-20T10:00:00Z",
+    "cover_image": "/images/blog/ia-intro.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": true,
+    "visible_in_home": true,
+    "toc": [
+      { "id": "h2-1", "text": "¿Qué es la Inteligencia Artificial?", "level": 2 },
+      { "id": "h3-1", "text": "Conceptos Clave", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-2",
+    "title": "Automatización de Tareas con Python y Scripts",
+    "categories": ["cat-4", "cat-1"],
+    "type": "post",
+    "slug": "automatizacion-python-scripts",
+    "json": "{}",
+    "html": "<h2>Por qué automatizar</h2><p>La automatización nos permite enfocarnos en tareas de mayor valor. En este artículo veremos cómo crear scripts en Python para automatizar tareas repetitivas.</p><h3>Ejemplos Prácticos</h3><p>Desde procesamiento de archivos hasta envío de emails automatizados, Python es una herramienta poderosa para la automatización.</p>",
+    "description": "Aprende a crear scripts en Python para automatizar tareas repetitivas y aumentar tu productividad como desarrollador.",
+    "order": 2,
+    "published_at": "2024-01-25T10:00:00Z",
+    "cover_image": "/images/blog/python-automation.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "Por qué automatizar", "level": 2 },
+      { "id": "h3-1", "text": "Ejemplos Prácticos", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-3",
+    "title": "Construyendo Aplicaciones Modernas con Next.js 14",
+    "categories": ["cat-7", "cat-2"],
+    "type": "post",
+    "slug": "nextjs-14-aplicaciones-modernas",
+    "json": "{}",
+    "html": "<h2>Novedades de Next.js 14</h2><p>Next.js 14 trae mejoras significativas en rendimiento y experiencia de desarrollo. Exploraremos las nuevas características y cómo aprovecharlas.</p><h3>Server Components</h3><p>Los Server Components revolucionan la forma en que construimos aplicaciones React, permitiendo mejor rendimiento y SEO.</p>",
+    "description": "Descubre las nuevas características de Next.js 14 y cómo construir aplicaciones modernas y de alto rendimiento.",
+    "order": 3,
+    "published_at": "2024-02-01T10:00:00Z",
+    "cover_image": "/images/blog/nextjs-14.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "Novedades de Next.js 14", "level": 2 },
+      { "id": "h3-1", "text": "Server Components", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-4",
+    "title": "Machine Learning para Principiantes: Guía Completa",
+    "categories": ["cat-5", "cat-1"],
+    "type": "post",
+    "slug": "machine-learning-principiantes",
+    "json": "{}",
+    "html": "<h2>Introducción al Machine Learning</h2><p>El machine learning es una rama de la IA que permite a las computadoras aprender de datos. En esta guía cubriremos los conceptos básicos.</p><h3>Tipos de Aprendizaje</h3><p>Existen diferentes tipos de aprendizaje: supervisado, no supervisado y por refuerzo. Cada uno tiene sus aplicaciones específicas.</p>",
+    "description": "Una guía completa para principiantes sobre machine learning. Aprende los conceptos fundamentales y cómo empezar tu primer proyecto.",
+    "order": 4,
+    "published_at": "2024-02-05T10:00:00Z",
+    "cover_image": "/images/blog/ml-guide.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "Introducción al Machine Learning", "level": 2 },
+      { "id": "h3-1", "text": "Tipos de Aprendizaje", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-5",
+    "title": "React Hooks Avanzados: Más allá de useState y useEffect",
+    "categories": ["cat-6", "cat-2"],
+    "type": "post",
+    "slug": "react-hooks-avanzados",
+    "json": "{}",
+    "html": "<h2>Hooks Personalizados</h2><p>Los hooks personalizados nos permiten reutilizar lógica entre componentes. Aprenderemos a crear hooks complejos y útiles.</p><h3>useMemo y useCallback</h3><p>Estos hooks son esenciales para optimizar el rendimiento de nuestras aplicaciones React.</p>",
+    "description": "Profundiza en los hooks avanzados de React. Aprende a crear hooks personalizados y optimizar el rendimiento de tus componentes.",
+    "order": 5,
+    "published_at": "2024-02-10T10:00:00Z",
+    "cover_image": "/images/blog/react-hooks.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "Hooks Personalizados", "level": 2 },
+      { "id": "h3-1", "text": "useMemo y useCallback", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-6",
+    "title": "Herramientas Esenciales para Desarrolladores en 2024",
+    "categories": ["cat-8", "cat-3"],
+    "type": "post",
+    "slug": "herramientas-desarrolladores-2024",
+    "json": "{}",
+    "html": "<h2>Stack de Herramientas Moderno</h2><p>El ecosistema de herramientas para desarrolladores evoluciona constantemente. Revisaremos las herramientas más importantes del 2024.</p><h3>Productividad y Colaboración</h3><p>Desde editores de código hasta herramientas de CI/CD, estas herramientas mejorarán tu flujo de trabajo.</p>",
+    "description": "Descubre las herramientas esenciales que todo desarrollador debería conocer en 2024 para mejorar su productividad.",
+    "order": 6,
+    "published_at": "2024-02-15T10:00:00Z",
+    "cover_image": "/images/blog/dev-tools.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "Stack de Herramientas Moderno", "level": 2 },
+      { "id": "h3-1", "text": "Productividad y Colaboración", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-7",
+    "title": "ChatGPT y Desarrollo: Cómo los Desarrolladores Usan IA",
+    "categories": ["cat-1", "cat-3"],
+    "type": "post",
+    "slug": "chatgpt-desarrollo-ia",
+    "json": "{}",
+    "html": "<h2>IA como Asistente de Desarrollo</h2><p>ChatGPT y otras herramientas de IA están cambiando cómo escribimos código. Exploraremos casos de uso prácticos.</p><h3>Generación de Código</h3><p>Desde escribir funciones hasta debuggear errores, la IA puede ser un gran asistente en el desarrollo.</p>",
+    "description": "Aprende cómo los desarrolladores están usando ChatGPT y otras herramientas de IA para mejorar su productividad y calidad de código.",
+    "order": 7,
+    "published_at": "2024-02-20T10:00:00Z",
+    "cover_image": "/images/blog/chatgpt-dev.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "IA como Asistente de Desarrollo", "level": 2 },
+      { "id": "h3-1", "text": "Generación de Código", "level": 3 }
+    ]
+  },
+  {
+    "id": "post-8",
+    "title": "Optimización de Rendimiento en Aplicaciones React",
+    "categories": ["cat-6", "cat-2"],
+    "type": "post",
+    "slug": "optimizacion-rendimiento-react",
+    "json": "{}",
+    "html": "<h2>Técnicas de Optimización</h2><p>El rendimiento es crucial para la experiencia del usuario. Aprenderemos técnicas avanzadas para optimizar aplicaciones React.</p><h3>Code Splitting y Lazy Loading</h3><p>Dividir el código y cargar componentes bajo demanda puede mejorar significativamente el tiempo de carga inicial.</p>",
+    "description": "Guía completa sobre optimización de rendimiento en React. Aprende técnicas avanzadas para hacer tus aplicaciones más rápidas.",
+    "order": 8,
+    "published_at": "2024-02-25T10:00:00Z",
+    "cover_image": "/images/blog/react-performance.jpg",
+    "visible": true,
+    "enabled": true,
+    "featured": false,
+    "visible_in_home": false,
+    "toc": [
+      { "id": "h2-1", "text": "Técnicas de Optimización", "level": 2 },
+      { "id": "h3-1", "text": "Code Splitting y Lazy Loading", "level": 3 }
+    ]
+  }
+]
+
